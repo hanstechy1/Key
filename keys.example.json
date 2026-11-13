@@ -1,0 +1,7 @@
+{
+  "allowSharedKeys": true,
+  "sharedKeys": {
+    "gemini": "WEKA_KEY_HAPA",
+    "openai": "WEKA_KEY_HAPA"
+  }
+}
