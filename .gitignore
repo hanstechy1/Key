@@ -1,0 +1,6 @@
+# Never commit plaintext secrets
+keys.json
+.env
+*.env
+*.pem
+*.key
